@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1552090189 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\main.cpp
+	"Sistema.h"
+
+1552094102 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\include\cuenta.h
+	<string>
+
+1552093852 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\src\cuenta.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Cuenta.h"
+	"BasicOperations.h"
+
+1552090381 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\include\sistema.h
+	<iostream>
+	<queue>
+	<string>
+	"Cuenta.h"
+	"Menu.h"
+
+1552092163 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1552094445 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1552086622 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\include\basicoperations.h
+	<string>
+
+1552094502 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1552093966 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_2\cuentascola\include\menu.h
+	<string>
+	<stack>
+
