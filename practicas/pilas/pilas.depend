@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1551675875 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\main.cpp
+	"Student.h"
+	"Systema.h"
+
+1551672174 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\include\operacionesbasicas.h
+	<string>
+
+1551672014 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\src\operacionesbasicas.cpp
+	"operacionesBasicas.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1551580227 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\include\menu.h
+
+1551498189 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\src\menu.cpp
+
+1551670883 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\src\student.cpp
+
+1551672616 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\include\student.h
+	<iostream>
+	<string>
+
+1551675970 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\include\systema.h
+	<iostream>
+	<cstdlib>
+	<stack>
+	<string>
+	"operacionesBasicas.h"
+	"Menu.h"
+
+1551671092 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\pilas\src\systema.cpp
+
