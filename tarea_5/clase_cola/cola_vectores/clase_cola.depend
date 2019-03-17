@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1552707760 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\main.cpp
+	<iostream>
+	"Sistema.h"
+
+1552709653 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\include\sistema.h
+	<iostream>
+	<queue>
+	<string>
+	"Vector.h"
+	"Menu.h"
+	"Cola.h"
+
+1552709917 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\include\vector.h
+	<string>
+
+1552694865 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\include\menu.h
+	<string>
+	<stack>
+
+1552694833 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1552694835 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\include\basicoperations.h
+	<string>
+
+1552694877 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1552712124 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1552710124 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1552711853 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\src\cola.cpp
+	"Cola.h"
+	<iostream>
+
+1552712110 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\include\cola.h
+	"Vector.h"
+

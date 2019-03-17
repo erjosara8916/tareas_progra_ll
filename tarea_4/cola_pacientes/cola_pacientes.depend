@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1552694721 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\main.cpp
+	<iostream>
+	"Sistema.h"
+
+1552705378 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\include\sistema.h
+	<iostream>
+	<queue>
+	<string>
+	"Menu.h"
+	"Paciente.h"
+
+1552700403 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\include\vector.h
+	<string>
+
+1552694865 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\include\menu.h
+	<string>
+	<stack>
+
+1552705499 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1552705430 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\include\basicoperations.h
+	<string>
+
+1552694877 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1552705575 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1552701148 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1552706021 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\include\paciente.h
+	<string>
+
+1552706444 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_4\cola_pacientes\src\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+

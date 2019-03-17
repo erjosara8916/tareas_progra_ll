@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1552694721 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\main.cpp
+	<iostream>
+	"Sistema.h"
+
+1552697624 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\include\sistema.h
+	<iostream>
+	<queue>
+	<string>
+	"Vector.h"
+	"Menu.h"
+
+1552700403 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\include\vector.h
+	<string>
+
+1552694865 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\include\menu.h
+	<string>
+	<stack>
+
+1552694833 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1552694835 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\include\basicoperations.h
+	<string>
+
+1552694877 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1552712317 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1552700478 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_3\cola_vectores\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
