@@ -96,12 +96,8 @@ void Sistema::delFirst(){
     showMenu(); // regresar al menu
 }
 /*
-
 void Sistema::calcProm(){
-
-
     Vector *v = &vectores.front();  // crear referencia a la primera posicion
-
     /// recorrer los vectores y sumar coordenadas
     for(int i = 1; i <= vectores.size(); i++) {
         prom_x += v->get_x(); // obtener el valor de x de este vector
@@ -109,19 +105,20 @@ void Sistema::calcProm(){
         prom_z += v->get_z(); // obtener el valor de z de este vector
         v++; // avanzar al siguiente
     }
-
     // dividir sumatorias entre el numero de datos sumados
     prom_x /= vectores.size();
     prom_y /= vectores.size();
     prom_z /= vectores.size();
-
 }
 */
 /// mostrar el promedio
 void Sistema::showProm(){
 
 	cms("cls");
-
+    /// reseteando los valores de los promedios
+	prom_x = 0;
+    prom_y = 0;
+    prom_z = 0;
 	// verificar si hay vectores guardados
 	if (!vectores->vacia()) {   // si hay
 
@@ -146,5 +143,4 @@ void Sistema::showWeight() {
     msn +=  to_string((sizeof(Cola) + sizeof(Vector) ) * vectores->size() ) ;
     showMessage(msn, true);
 }
-
 

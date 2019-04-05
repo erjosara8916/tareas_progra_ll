@@ -12,11 +12,12 @@ using namespace std;
 
 class Sistema{
     private:
-      //  queue<Vector> vectores; // cola de ahorrantes
+
         Cola *vectores = new Cola();
         string msn;
         Vector *aux_v;
-        Vector aux_vector ; // cuenta temporal para crear ahorrantes
+
+        Vector aux_vector ; // vector temporal para crear vectores
         Menu main_menu; // menu del sistema
         double prom_x;
         double prom_y;
@@ -26,9 +27,9 @@ class Sistema{
     public:
         Sistema() ; // constructor
         void showMenu(); // mostrar el menu al usuario
-        void newVector(); // crear nueva cuenta de ahorrante
-        void showVectores(); // mostrar las cuentas actuales
-        void delFirst(); // eliminar la primera cuenta
+        void newVector(); // crear nuevo vector
+        void showVectores(); // mostrar los vectores
+        void delFirst(); // eliminar el primer vector
         void showProm(); // mostrar promedio
         void showWeight(); // mostrar el peso del conjunto de vectores
 };

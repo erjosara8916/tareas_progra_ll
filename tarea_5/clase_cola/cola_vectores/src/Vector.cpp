@@ -1,6 +1,5 @@
 #include "Vector.h"
 #include <iostream> // entrada y salida de datos
-#include <queue> // plantilla para crear cola
 #include <string>  // para usar variables tipo string
 #include "BasicOperations.h" // Operaciones basicas
 

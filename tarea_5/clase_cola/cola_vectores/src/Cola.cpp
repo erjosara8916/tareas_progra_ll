@@ -122,20 +122,3 @@ int Cola::size()
 	return lenght;
 }
 
-/*
-int main()
-{
-	Cola *cola1 = new Cola();
-	cola1 -> insertar(5);
-	cola1 -> insertar(10);
-	cola1 -> insertar(50);
-	cola1 -> imprimir();
-	cout<<"Extraemos uno de la cola: "<<cola1 -> extraer();
-	cola1 -> imprimir();
-	delete cola1;
-	cin.get();
-
-	getch();
-	return 0;
-}
-*/

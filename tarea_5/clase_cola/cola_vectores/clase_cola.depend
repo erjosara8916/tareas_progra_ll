@@ -56,3 +56,52 @@
 1552712110 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_5\clase_cola\cola_vectores\include\cola.h
 	"Vector.h"
 
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\main.cpp
+	<iostream>
+	"Sistema.h"
+
+1554508105 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\include\sistema.h
+	<iostream>
+	<queue>
+	<string>
+	"Vector.h"
+	"Menu.h"
+	"Cola.h"
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\include\vector.h
+	<string>
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\include\menu.h
+	<string>
+	<stack>
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\include\cola.h
+	"Vector.h"
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\include\basicoperations.h
+	<string>
+
+1554508252 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\src\cola.cpp
+	"Cola.h"
+	<iostream>
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_5\clase_cola\cola_vectores\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
