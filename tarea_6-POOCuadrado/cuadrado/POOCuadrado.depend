@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1554428404 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1554428437 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\include\basicoperations.h
+	<string>
+
+1552694877 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1552694865 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\include\menu.h
+	<string>
+	<stack>
+
+1554431411 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1554429985 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\include\sistema.h
+	<iostream>
+	<string>
+	"Menu.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+
+1554420007 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\main.cpp
+	<iostream>
+	"Sistema.h"
+
+1554428203 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\src\color.cpp
+	"BasicOperations.h"
+	"Color.h"
+	<iostream>
+	<string>
+
+1554428116 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\include\color.h
+
+1554431088 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\src\figura.cpp
+	"Figura.h"
+	"BasicOperations.h"
+
+1554431017 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\include\figura.h
+
+1554431127 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\include\rectangulo.h
+	<iostream>
+	"Figura.h"
+	"Color.h"
+
+1554431163 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\src\rectangulo.cpp
+	"Rectangulo.h"
+	"BasicOperations.h"
+	<iostream>
+
+1554431356 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\src\cuadrado.cpp
+	"Cuadrado.h"
+	"BasicOperations.h"
+	<iostream>
+	"Cuadrado.h"
+
+1554431131 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_6-poocuadrado\cuadrado\include\cuadrado.h
+	<iostream>
+	"Figura.h"
+
