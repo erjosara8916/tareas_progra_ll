@@ -48,3 +48,43 @@
 	"Menu.h"
 	"BasicOperations.h"
 
+1554432372 source:f:\repo_rar\tareas_progra_ll-master\tarea_3\cola_vectores\main.cpp
+	"Sistema.h"
+
+1554432372 f:\repo_rar\tareas_progra_ll-master\tarea_3\cola_vectores\include\sistema.h
+	<iostream>
+	<queue>
+	<string>
+	"Vector.h"
+	"Menu.h"
+
+1554432372 f:\repo_rar\tareas_progra_ll-master\tarea_3\cola_vectores\include\vector.h
+	<string>
+
+1554432372 f:\repo_rar\tareas_progra_ll-master\tarea_3\cola_vectores\include\menu.h
+	<string>
+	<stack>
+
+1554432372 source:f:\repo_rar\tareas_progra_ll-master\tarea_3\cola_vectores\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1554432372 f:\repo_rar\tareas_progra_ll-master\tarea_3\cola_vectores\include\basicoperations.h
+	<string>
+
+1554432372 source:f:\repo_rar\tareas_progra_ll-master\tarea_3\cola_vectores\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1554432372 source:f:\repo_rar\tareas_progra_ll-master\tarea_3\cola_vectores\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+

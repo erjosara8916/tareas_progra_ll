@@ -116,7 +116,9 @@ void Sistema::delFirst(){
 }
 
 void Sistema::calcProm(){
-
+    prom_x = 0;
+    prom_y = 0;
+    prom_z = 0;
 
     Vector *v = &vectores.front();  // crear referencia a la primera posicion
 
@@ -147,8 +149,8 @@ void Sistema::showProm(){
 
         // crear el mensaje a motrar
         msn = " Promedio coordenada x: " + to_string(prom_x) ;
-        msn += " Promedio coordenada y: " + to_string(prom_y) ;
-        msn += " Promedio coordenada z: " + to_string(prom_z) ;
+        msn += "\n    Promedio coordenada y: " + to_string(prom_y) ;
+        msn += "\n    Promedio coordenada z: " + to_string(prom_z) ;
         showMessage(msn, true);
 
     }else {  // No hay
