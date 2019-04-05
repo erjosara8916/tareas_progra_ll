@@ -58,3 +58,44 @@
 	<string>
 	"BasicOperations.h"
 
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_4\cola_pacientes\main.cpp
+	"Sistema.h"
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_4\cola_pacientes\include\sistema.h
+	<iostream>
+	<queue>
+	<string>
+	"Menu.h"
+	"Paciente.h"
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_4\cola_pacientes\include\menu.h
+	<string>
+	<stack>
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_4\cola_pacientes\include\paciente.h
+	<string>
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_4\cola_pacientes\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_4\cola_pacientes\include\basicoperations.h
+	<string>
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_4\cola_pacientes\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_4\cola_pacientes\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+

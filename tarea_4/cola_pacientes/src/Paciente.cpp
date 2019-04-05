@@ -38,12 +38,17 @@ void Paciente::set_sexo(){
 
 // definir peso
 void Paciente::set_peso(){
-	setData("Escribe el peso del paciente: ", peso) ;
+	setData("Escribe el peso del paciente (lb): ", peso) ;
+	cin.clear() ;  /// borra el contenido del buffer de entrada
+
+    /// ignora 1000 caracteres o hasta encontrar un salto de lines
+    cin.ignore( 1000 , '\n' ) ;
 	cms("cls") ;
 }
 
 // definir la enfermedad
 void Paciente::set_enf(){
+
 	setData("Escribe la enfermedad del paciente: ", cin, enf) ;
 	cms("cls") ;
 }
