@@ -1,4 +1,3 @@
-
 #ifndef RECTANGULO_H
 #define RECTANGULO_H
 

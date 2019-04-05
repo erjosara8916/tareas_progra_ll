@@ -5,6 +5,8 @@
 #include "Menu.h" // para interactuar con el menu creado
 #include "BasicOperations.h" // operaciones basicas
 
+
+
 using namespace std;
 
 Sistema::Sistema() {
@@ -12,12 +14,15 @@ Sistema::Sistema() {
 
     r = new Rectangulo() ;
     c = new Cuadrado();
+    t = new Triangulo();
     /// definir el menu
    main_menu.setTitle("Sistema de Area y perimetro") ; // Tema
    main_menu.add("Definir Rectangulo") ;
    main_menu.add("Definir Cuadrado") ;
+   main_menu.add("Definir Triangulo") ;
    main_menu.add("Mostrar Rectangulo") ;
    main_menu.add("Mostrar Cuadrado");
+   main_menu.add("Mostrar Triangulo") ;
    main_menu.add("Salir") ;
 
    // definir promedios a 0
@@ -30,7 +35,7 @@ Sistema::Sistema() {
 
 void Sistema::showMenu(){
 
-    system("cls");
+    cms("cls");
     main_menu.show(); // mostrar menu
 
     /// realizar accion en base a lz respuesta de ususario
@@ -44,15 +49,23 @@ void Sistema::showMenu(){
             showMenu();
             break;
         case 3:
-            mostrarRectangulo();
+            defTriangulo();
             showMenu();
             break;
         case 4:
-            mostrarCuadrado();
+            mostrarRectangulo();
         	showMenu();
         	break;
+        case 5:
+            mostrarCuadrado();
+            showMenu();
+            break;
+        case 6:
+            mostrarTriangulo();
+            showMenu();
+            break;
         default:
-            system("cls");
+            cms("cls");
             showMessage("Adios ;)") ;  // despedirse
             break;
     }
@@ -69,6 +82,13 @@ void Sistema::defCuadrado(){
     cms("cls");
     c->set_base();
 }
+
+void Sistema::defTriangulo(){
+    cms("cls");
+
+    t->set_altura();
+}
+
 void Sistema::mostrarRectangulo(){
     cms("cls") ;
 
@@ -92,6 +112,22 @@ void Sistema::mostrarCuadrado(){
         msn += "\n Perimetro: " + to_string(c->perimetro()) ;
         showMessage(msn);
         c->ImprimirR();
+    }
+    cms("pause");
+
+}
+
+void Sistema::mostrarTriangulo(){
+    cms("cls") ;
+
+    if(t->get_altura() == 0  ) {
+        showMessage("El Triangulo aun no ha sido definido");
+
+    } else {
+        msn = "Area : " + to_string(t->area());
+        msn += "\n   Perimetro : " + to_string(t->perimetro());
+        showMessage(msn);
+        t->ImprimirR();
     }
     cms("pause");
 

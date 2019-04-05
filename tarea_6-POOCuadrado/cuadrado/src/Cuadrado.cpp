@@ -1,7 +1,6 @@
 #include "Cuadrado.h"
-#include "BasicOperations.h"
+
 #include <iostream>
-#include "Cuadrado.h"
 
 using namespace std;
 

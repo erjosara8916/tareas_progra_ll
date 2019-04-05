@@ -72,3 +72,163 @@
 	<iostream>
 	"Figura.h"
 
+1554432372 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\main.cpp
+	"Sistema.h"
+
+1554474759 c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\sistema.h
+	<iostream>
+	<string>
+	"Menu.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+
+1554432372 c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\menu.h
+	<string>
+	<stack>
+
+1554473743 c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\rectangulo.h
+	<iostream>
+	"Figura.h"
+	"Color.h"
+
+1554432372 c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\figura.h
+
+1554432372 c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\color.h
+
+1554432372 c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\cuadrado.h
+	<iostream>
+	"Figura.h"
+
+1554474720 c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\triangulo.h
+	"Figura.h"
+
+1554432372 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1554432372 c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\basicoperations.h
+	<string>
+
+1554432372 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\color.cpp
+	"BasicOperations.h"
+	"Color.h"
+	<iostream>
+	<string>
+
+1554432372 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\cuadrado.cpp
+	"Cuadrado.h"
+	"BasicOperations.h"
+	<iostream>
+	"Cuadrado.h"
+
+1554432372 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\figura.cpp
+	"Figura.h"
+	"BasicOperations.h"
+
+1554432372 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1554432372 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\rectangulo.cpp
+	"Rectangulo.h"
+	"BasicOperations.h"
+	<iostream>
+
+1554474572 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\triangulo.cpp
+	"Triangulo.h"
+
+1554474582 source:c:\users\estudiantes\documents\repo\repo_rar\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\main.cpp
+	"Sistema.h"
+
+1554506261 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\sistema.h
+	<iostream>
+	<string>
+	"Menu.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Triangulo2.h"
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\menu.h
+	<string>
+	<stack>
+
+1554473743 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\rectangulo.h
+	<iostream>
+	"Figura.h"
+	"Color.h"
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\figura.h
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\color.h
+
+1554505894 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\cuadrado.h
+	"Figura.h"
+
+1554506520 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\triangulo.h
+	"Figura.h"
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1554432372 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\basicoperations.h
+	<string>
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\color.cpp
+	"BasicOperations.h"
+	"Color.h"
+	<iostream>
+	<string>
+
+1554506364 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\cuadrado.cpp
+	"Cuadrado.h"
+	<iostream>
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\figura.cpp
+	"Figura.h"
+	"BasicOperations.h"
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1554432372 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\rectangulo.cpp
+	"Rectangulo.h"
+	"BasicOperations.h"
+	<iostream>
+
+1554506228 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1554506389 c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\include\triangulo2.h
+	"Figura.h"
+
+1554506766 source:c:\users\codea\onedrive\documentos\tareas_progra_ll-master\tarea_6-poocuadrado\cuadrado\src\triangulo.cpp
+	"Triangulo.h"
+	<iostream>
+	<math.h>
+

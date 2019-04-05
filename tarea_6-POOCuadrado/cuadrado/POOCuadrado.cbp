@@ -32,6 +32,7 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add option="-std=c++0x" />
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/BasicOperations.h" />
@@ -41,6 +42,7 @@
 		<Unit filename="include/Menu.h" />
 		<Unit filename="include/Rectangulo.h" />
 		<Unit filename="include/Sistema.h" />
+		<Unit filename="include/Triangulo.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/BasicOperations.cpp" />
 		<Unit filename="src/Color.cpp" />
@@ -49,6 +51,7 @@
 		<Unit filename="src/Menu.cpp" />
 		<Unit filename="src/Rectangulo.cpp" />
 		<Unit filename="src/Sistema.cpp" />
+		<Unit filename="src/Triangulo.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
