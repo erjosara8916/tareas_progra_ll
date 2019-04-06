@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1553874972 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\main.cpp
+	"Sistema.h"
+
+1554347280 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\include\sistema.h
+	<iostream>
+	<stack>
+	<string>
+	"Menu.h"
+	"Examen.h"
+	"EJPrestamoVehiculo.h"
+
+1554343911 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\include\menu.h
+	<string>
+	<stack>
+
+1554343911 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\include\examen.h
+	<string>
+
+1554346234 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\include\ejprestamovehiculo.h
+	<string>
+
+1554343911 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1554343911 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\include\basicoperations.h
+	<string>
+
+1554346323 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\src\ejprestamovehiculo.cpp
+	"EJPrestamoVehiculo.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1554343911 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\src\examen.cpp
+	"Examen.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1554343911 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\auto_lote\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+

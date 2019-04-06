@@ -1,0 +1,13 @@
+Nombre: Erick Josue Saravia Aragon
+Carnet: SA18004
+
+Nota: el codigo se hizo en codeblocks, el ejecutable se encuentra en
+bin/Debug
+
+Pregunta 1: 90
+Pregunta 2: D
+pregunta 3: 
+	letra0 = H
+	letra1 = o
+	letra2 = l
+	letra3 = a

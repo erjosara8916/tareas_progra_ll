@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1553874972 source:c:\users\estudiantes\documents\parcial progra\examenes\main.cpp
+	"Sistema.h"
+
+1553874991 c:\users\estudiantes\documents\parcial progra\examenes\include\sistema.h
+	<iostream>
+	<stack>
+	<string>
+	"Menu.h"
+	"Examen.h"
+
+1552094102 c:\users\estudiantes\documents\parcial progra\examenes\include\cuenta.h
+	<string>
+
+1553874410 c:\users\estudiantes\documents\parcial progra\examenes\include\menu.h
+	<string>
+	<stack>
+
+1553874410 source:c:\users\estudiantes\documents\parcial progra\examenes\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1553874410 c:\users\estudiantes\documents\parcial progra\examenes\include\basicoperations.h
+	<string>
+
+1552093852 source:c:\users\estudiantes\documents\parcial progra\examenes\src\cuenta.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Cuenta.h"
+	"BasicOperations.h"
+
+1553874410 source:c:\users\estudiantes\documents\parcial progra\examenes\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1553874972 c:\users\estudiantes\documents\parcial progra\examenes\include\examen.h
+	<string>
+
+1553874991 source:c:\users\estudiantes\documents\parcial progra\examenes\src\examen.cpp
+	"Examen.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1553874972 source:c:\users\estudiantes\documents\parcial progra\examenes\src\sistema.cpp
+	<iostream>
+	<stack>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1553874972 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\main.cpp
+	"Sistema.h"
+
+1553898493 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\include\sistema.h
+	<iostream>
+	<stack>
+	<string>
+	"Menu.h"
+	"Examen.h"
+
+1553874410 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\include\menu.h
+	<string>
+	<stack>
+
+1553900319 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\include\examen.h
+	<string>
+
+1553898534 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1553898519 c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\include\basicoperations.h
+	<string>
+
+1553898958 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\src\examen.cpp
+	"Examen.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1553898534 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1553898726 source:c:\users\codea\onedrive\documentos\ericksaravia_sa18004\examenes\src\sistema.cpp
+	<iostream>
+	<stack>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
