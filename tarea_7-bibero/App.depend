@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1553223381 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\main.cpp
+	<iostream>
+	"Sistema.h"
+
+1554418398 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\include\sistema.h
+	<iostream>
+	<string>
+	"Menu.h"
+
+1552694865 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\include\menu.h
+	<string>
+	<stack>
+
+1555716267 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1555716286 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\include\basicoperations.h
+	<string>
+
+1552711853 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\src\cola.cpp
+	"Cola.h"
+	<iostream>
+
+1552712110 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\include\cola.h
+	"Vector.h"
+
+1552709917 c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\include\vector.h
+	<string>
+
+1552694877 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1555717292 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1552710124 source:c:\users\codea\onedrive\documentos\tareas progra ll\practicas\plantilla app\plantilla\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1555802040 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\basicoperations.cpp
+	"BasicOperations.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1555801992 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\basicoperations.h
+	<string>
+	<iostream>
+
+1552711853 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\cola.cpp
+	"Cola.h"
+	<iostream>
+
+1552712110 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\cola.h
+	"Vector.h"
+
+1552709917 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\vector.h
+	<string>
+
+1552694877 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\menu.cpp
+	"Menu.h"
+	"BasicOperations.h"
+	<stack>
+	<string>
+	<iostream>
+
+1552694865 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\menu.h
+	<string>
+	<stack>
+
+1555820608 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\sistema.cpp
+	<iostream>
+	<queue>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"BasicOperations.h"
+
+1555820472 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\sistema.h
+	<iostream>
+	<string>
+	"Menu.h"
+	"Producto.h"
+	<stack>
+
+1552710124 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<queue>
+	<string>
+	"BasicOperations.h"
+
+1555724840 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\main.cpp
+	"Sistema.h"
+	"Fabrica.h"
+
+1555819553 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\arbol.cpp
+	<iostream>
+	<string>
+	"Arbol.h"
+	"BasicOperations.h"
+
+1555731503 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\arbol.h
+	<iostream>
+	<string>
+	"Hoja.h"
+	"Tallo.h"
+
+1555802488 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\arbolfrutal.cpp
+	<iostream>
+	"ArbolFrutal.h"
+	"BasicOperations.h"
+
+1555887465 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\arbolfrutal.h
+	"Arbol.h"
+	<iostream>
+	<string>
+
+1555802490 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\arbolornamental.cpp
+	<iostream>
+	<string>
+	"BasicOperations.h"
+	"ArbolOrnamental.h"
+
+1555887473 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\arbolornamental.h
+	"Arbol.h"
+
+1555735060 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\fabrica.cpp
+	<iostream>
+	<string>
+	"Fabrica.h"
+
+1555280088 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\fabrica.h
+	"ArbolOrnamental.h"
+	"ArbolFrutal.h"
+
+1555820788 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\producto.cpp
+	"BasicOperations.h"
+	"Producto.h"
+
+1555818706 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\producto.h
+	<iostream>
+	<string>
+	"Arbol.h"
+	"Fabrica.h"
+
+1555819874 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\hoja.cpp
+	"Hoja.h"
+	"BasicOperations.h"
+
+1555733089 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\hoja.h
+	<iostream>
+	<string>
+
+1555733164 c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\include\tallo.h
+
+1555819856 source:c:\users\codea\onedrive\documentos\tareas progra ll\tarea_7-bibero\src\tallo.cpp
+	"Tallo.h"
+	"BasicOperations.h"
+
